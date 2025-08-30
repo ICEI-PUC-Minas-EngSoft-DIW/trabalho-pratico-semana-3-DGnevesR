@@ -103,3 +103,25 @@ body {
     padding: 20px;
     background-color: #1a1a1a;
 }
+
+footer.rodape {
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer.rodape .conteudo-rodape {
+    padding-left: 20px;
+}
+
+footer.rodape .conteudo-rodape p {
+    margin: 0 0 10px 0;
+}
+
+footer.rodape .conteudo-rodape ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 50px;
+}
