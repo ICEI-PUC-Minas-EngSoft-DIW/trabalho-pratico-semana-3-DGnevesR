@@ -78,3 +78,28 @@ body {
 .menu a:hover {
     background-color: #333;
 }
+
+.feed {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.postar-central input {
+    width: 300px;
+    max-width: 600px;
+    padding: 12px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    margin-left: 400px;
+}
+
+.direita {
+    width: 300px;
+    padding: 20px;
+    background-color: #1a1a1a;
+}
