@@ -8,17 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Davi Gamarano Neves Rocha
+- Matricula: 902643
+- Proposta de projeto escolhida: Página Inicial de uma rede social
+- Breve descrição sobre seu projeto: Rede social inspirada no X, contendo uma aba lateral um feed e no canto direito recomendações
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
 
+![Print do wireframe](public/img/wireframe.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >> -- // lembrar de alterar o diretorio da imagem// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+![Print da home-page]()
